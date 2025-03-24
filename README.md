@@ -8,7 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolve tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -28,6 +28,156 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+
+<p align="center"><strong> Example
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p align="center"><strong> Example
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p align="center"><strong> Example
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p align="center"><strong> Example
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p align="center"><strong> Example
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p align="center"><strong> Example
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
 
 <p align="center"><strong> Example
 <p>
