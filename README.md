@@ -29,9 +29,31 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p align="center"><strong> Example
+<p align="center"><strong> Start by logging into your admin account on Osticket in your virtual machine, click "agents", then "departments", and delete the "maintenance" department. 
 <p>
-<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+<p align="center"><img src="https://i.imgur.com/1EJPaMe.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+  
+<p>
+<p align="center"><strong>Under the same department section, click "sysadmins" and confirm that the parent is "Top-level department". If not, set it to that and save changes. 
+</p>
+
+<p>
+<p align="center"><img src="https://i.imgur.com/OrDdJUX.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+<p align="center"><img src="https://i.imgur.com/nJ9kSGH.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Open a new tab and paste in this <a href="http://localhost/osTicket/open.php"> End User link</a> to create a fake account, and report a problem, and create ticket. This simulates an end user reporting a problem to the ticketing system.
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/PFrlvLI.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<br />
+
+<p align="center"><strong> Log back in as an admin and click on the ticket.
+<p>
+<p align="center"><img src="https://i.imgur.com/boipzM2.png" height="80%" width="80%" alt="Lifecycle Examples"/>
 </p>
 <p>
 <p align="center"><strong>Example
@@ -48,34 +70,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 <p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
-</p>
-<p>
-<p align="center"><strong>Example
-</p>
-<br />
-
-<p align="center"><strong> Example
-<p>
-<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
-</p>
-<p>
-<p align="center"><strong>Example
-</p>
-<br />
-
-<p>
-<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
-</p>
-<p>
-<p align="center"><strong>Example
-</p>
-<br />
-
-<p>
-<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
-</p>
-<p>
-<p align="center"><strong>Example
 </p>
 <br />
 
@@ -99,8 +93,27 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 <p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
 </p>
+<br />
+
+<p align="center"><strong> Example
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
 <p>
 <p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
+</p>
+<p>
+<p align="center"><strong>Example
+</p>
+<br />
+
+<p>
+<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
 </p>
 <br />
 
@@ -124,9 +137,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 <p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
 </p>
-<p>
-<p align="center"><strong>Example
-</p>
 <br />
 
 <p align="center"><strong> Example
@@ -148,34 +158,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 <p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
-</p>
-<p>
-<p align="center"><strong>Example
-</p>
-<br />
-
-<p align="center"><strong> Example
-<p>
-<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
-</p>
-<p>
-<p align="center"><strong>Example
-</p>
-<br />
-
-<p>
-<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
-</p>
-<p>
-<p align="center"><strong>Example
-</p>
-<br />
-
-<p>
-<p align="center"><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Lifecycle Examples"/>
-</p>
-<p>
-<p align="center"><strong>Example
 </p>
 <br />
 
